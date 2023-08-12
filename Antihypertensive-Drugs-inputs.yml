@@ -1,0 +1,846 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/inderal-antihypertensive-drugs---primary.py
+inputModule3:
+  class: File
+  path: python/antihypertensive-drugs-torem---primary.py
+inputModule4:
+  class: File
+  path: python/antihypertensive-drugs-doxadura---primary.py
+inputModule5:
+  class: File
+  path: python/antihypertensive-drugs-slowrelease---primary.py
+inputModule6:
+  class: File
+  path: python/antihypertensive-drugs-320mg---primary.py
+inputModule7:
+  class: File
+  path: python/antihypertensive-drugs-atenixco---primary.py
+inputModule8:
+  class: File
+  path: python/antihypertensive-drugs-tablet---primary.py
+inputModule9:
+  class: File
+  path: python/antihypertensive-drugs-025mg---primary.py
+inputModule10:
+  class: File
+  path: python/antihypertensive-drugs-360mg---primary.py
+inputModule11:
+  class: File
+  path: python/antihypertensive-drugs-adizemsr---primary.py
+inputModule12:
+  class: File
+  path: python/antihypertensive-drugs-aprovel---primary.py
+inputModule13:
+  class: File
+  path: python/antihypertensive-drugs-lasix---primary.py
+inputModule14:
+  class: File
+  path: python/antihypertensive-drugs-250mg---primary.py
+inputModule15:
+  class: File
+  path: python/antihypertensive-drugs-bayer---primary.py
+inputModule16:
+  class: File
+  path: python/antihypertensive-drugs-cobetaloc---primary.py
+inputModule17:
+  class: File
+  path: python/antihypertensive-drugs-corgard---primary.py
+inputModule18:
+  class: File
+  path: python/antihypertensive-drugs-trasicor---primary.py
+inputModule19:
+  class: File
+  path: python/antihypertensive-drugs-hoechst---primary.py
+inputModule20:
+  class: File
+  path: python/antihypertensive-drugs-emcor---primary.py
+inputModule21:
+  class: File
+  path: python/antihypertensive-drugs-berkozide---primary.py
+inputModule22:
+  class: File
+  path: python/antihypertensive-drugs-3125mg---primary.py
+inputModule23:
+  class: File
+  path: python/antihypertensive-drugs-angitil---primary.py
+inputModule24:
+  class: File
+  path: python/antihypertensive-drugs-navidrex---primary.py
+inputModule25:
+  class: File
+  path: python/antihypertensive-drugs-codiovan---primary.py
+inputModule26:
+  class: File
+  path: python/antihypertensive-drugs-viazem---primary.py
+inputModule27:
+  class: File
+  path: python/antihypertensive-drugs-cozidocapt---primary.py
+inputModule28:
+  class: File
+  path: python/antihypertensive-drugs-coflumactone---primary.py
+inputModule29:
+  class: File
+  path: python/antihypertensive-drugs-baratol---primary.py
+inputModule30:
+  class: File
+  path: python/antihypertensive-drugs-300mg---primary.py
+inputModule31:
+  class: File
+  path: python/antihypertensive-drugs-cyclopenthiazide---primary.py
+inputModule32:
+  class: File
+  path: python/antihypertensive-drugs-doxazosin---primary.py
+inputModule33:
+  class: File
+  path: python/antihypertensive-drugs-motens---primary.py
+inputModule34:
+  class: File
+  path: python/antihypertensive-drugs-erbumine---primary.py
+inputModule35:
+  class: File
+  path: python/antihypertensive-drugs-betim---primary.py
+inputModule36:
+  class: File
+  path: python/antihypertensive-drugs-neonaclex---primary.py
+inputModule37:
+  class: File
+  path: python/antihypertensive-drugs-burinex---primary.py
+inputModule38:
+  class: File
+  path: python/sectral-antihypertensive-drugs---primary.py
+inputModule39:
+  class: File
+  path: python/antihypertensive-drugs-pfizer---primary.py
+inputModule40:
+  class: File
+  path: python/antihypertensive-drugs-capsule---primary.py
+inputModule41:
+  class: File
+  path: python/antihypertensive-drugs-250microgram---primary.py
+inputModule42:
+  class: File
+  path: python/hydrosaluric-antihypertensive-drugs---primary.py
+inputModule43:
+  class: File
+  path: python/moduretic-antihypertensive-drugs---primary.py
+inputModule44:
+  class: File
+  path: python/antihypertensive-drugs-starter---primary.py
+inputModule45:
+  class: File
+  path: python/antihypertensive-drugs-kalspare---primary.py
+inputModule46:
+  class: File
+  path: python/antihypertensive-drugs-cilazapril---primary.py
+inputModule47:
+  class: File
+  path: python/antihypertensive-drugs-tanatril---primary.py
+inputModule48:
+  class: File
+  path: python/antihypertensive-drugs-600mg---primary.py
+inputModule49:
+  class: File
+  path: python/antihypertensive-drugs-imidapril---primary.py
+inputModule50:
+  class: File
+  path: python/antihypertensive-drugs-telmisartan---primary.py
+inputModule51:
+  class: File
+  path: python/antihypertensive-drugs-astella---primary.py
+inputModule52:
+  class: File
+  path: python/antihypertensive-drugs-retard---primary.py
+inputModule53:
+  class: File
+  path: python/antihypertensive-drugs-bisoprolol---primary.py
+inputModule54:
+  class: File
+  path: python/antihypertensive-drugs-hypovase---primary.py
+inputModule55:
+  class: File
+  path: python/antihypertensive-drugs-150mg---primary.py
+inputModule56:
+  class: File
+  path: python/antihypertensive-drugs-sugar---primary.py
+inputModule57:
+  class: File
+  path: python/antihypertensive-drugs-400mg---primary.py
+inputModule58:
+  class: File
+  path: python/antihypertensive-drugs-aldactide---primary.py
+inputModule59:
+  class: File
+  path: python/antihypertensive-drugs-enalapril---primary.py
+inputModule60:
+  class: File
+  path: python/antihypertensive-drugs-dilzem---primary.py
+inputModule61:
+  class: File
+  path: python/antihypertensive-drugs-eprosartan---primary.py
+inputModule62:
+  class: File
+  path: python/antihypertensive-drugs-adipine---primary.py
+inputModule63:
+  class: File
+  path: python/antihypertensive-drugs-spironolactone---primary.py
+inputModule64:
+  class: File
+  path: python/antihypertensive-drugs-oxprenolol---primary.py
+inputModule65:
+  class: File
+  path: python/antihypertensive-drugs-esidrex---primary.py
+inputModule66:
+  class: File
+  path: python/antihypertensive-drugs-forte---primary.py
+inputModule67:
+  class: File
+  path: python/antihypertensive-drugs-lopresor---primary.py
+inputModule68:
+  class: File
+  path: python/antihypertensive-drugs-alphavase---primary.py
+inputModule69:
+  class: File
+  path: python/antihypertensive-drugs-angiopine---primary.py
+inputModule70:
+  class: File
+  path: python/antihypertensive-drugs-wafer---primary.py
+inputModule71:
+  class: File
+  path: python/antihypertensive-drugs-micardi---primary.py
+inputModule72:
+  class: File
+  path: python/antihypertensive-drugs-clopamide---primary.py
+inputModule73:
+  class: File
+  path: python/eucardic-antihypertensive-drugs---primary.py
+inputModule74:
+  class: File
+  path: python/antihypertensive-drugs-acebutolol---primary.py
+inputModule75:
+  class: File
+  path: python/servier-antihypertensive-drugs---primary.py
+inputModule76:
+  class: File
+  path: python/corgaretic-antihypertensive-drugs---primary.py
+inputModule77:
+  class: File
+  path: python/antihypertensive-drugs-accupro---primary.py
+inputModule78:
+  class: File
+  path: python/antihypertensive-drugs-pindolol---primary.py
+inputModule79:
+  class: File
+  path: python/antihypertensive-drugs-frusol---primary.py
+inputModule80:
+  class: File
+  path: python/antihypertensive-drugs-calchan---primary.py
+inputModule81:
+  class: File
+  path: python/antihypertensive-drugs-cozaarcomp---primary.py
+inputModule82:
+  class: File
+  path: python/antihypertensive-drugs-olmetec---primary.py
+inputModule83:
+  class: File
+  path: python/antihypertensive-drugs-spiroctan---primary.py
+inputModule84:
+  class: File
+  path: python/antihypertensive-drugs-titration---primary.py
+inputModule85:
+  class: File
+  path: python/antihypertensive-drugs-quinapril---primary.py
+inputModule86:
+  class: File
+  path: python/antihypertensive-drugs-moexipril---primary.py
+inputModule87:
+  class: File
+  path: python/antihypertensive-drugs-totamol---primary.py
+inputModule88:
+  class: File
+  path: python/antihypertensive-drugs-capozide---primary.py
+inputModule89:
+  class: File
+  path: python/antihypertensive-drugs-felogen---primary.py
+inputModule90:
+  class: File
+  path: python/antihypertensive-drugs-posicor---primary.py
+inputModule91:
+  class: File
+  path: python/antihypertensive-drugs-chlortalidone---primary.py
+inputModule92:
+  class: File
+  path: python/antihypertensive-drugs-monmouth---primary.py
+inputModule93:
+  class: File
+  path: python/antihypertensive-drugs-mibefradil---primary.py
+inputModule94:
+  class: File
+  path: python/antihypertensive-drugs-captopril---primary.py
+inputModule95:
+  class: File
+  path: python/antihypertensive-drugs-labetalol---primary.py
+inputModule96:
+  class: File
+  path: python/antihypertensive-drugs-hytrin---primary.py
+inputModule97:
+  class: File
+  path: python/antihypertensive-drugs-vascace---primary.py
+inputModule98:
+  class: File
+  path: python/antihypertensive-drugs-teveten---primary.py
+inputModule99:
+  class: File
+  path: python/antihypertensive-drugs-labrocol---primary.py
+inputModule100:
+  class: File
+  path: python/antihypertensive-drugs-carace---primary.py
+inputModule101:
+  class: File
+  path: python/antihypertensive-drugs-gopten---primary.py
+inputModule102:
+  class: File
+  path: python/antihypertensive-drugs-pantheon---primary.py
+inputModule103:
+  class: File
+  path: python/antihypertensive-drugs-triapin---primary.py
+inputModule104:
+  class: File
+  path: python/antihypertensive-drugs-ratiopharm---primary.py
+inputModule105:
+  class: File
+  path: python/antihypertensive-drugs-mercury---primary.py
+inputModule106:
+  class: File
+  path: python/antihypertensive-drugs-cardilate---primary.py
+inputModule107:
+  class: File
+  path: python/antihypertensive-drugs-nivaten---primary.py
+inputModule108:
+  class: File
+  path: python/antihypertensive-drugs-zemtard---primary.py
+inputModule109:
+  class: File
+  path: python/antihypertensive-drugs-625mg---primary.py
+inputModule110:
+  class: File
+  path: python/antihypertensive-drugs-felotens---primary.py
+inputModule111:
+  class: File
+  path: python/antihypertensive-drugs-slozem---primary.py
+inputModule112:
+  class: File
+  path: python/antihypertensive-drugs-liquid---primary.py
+inputModule113:
+  class: File
+  path: python/antihypertensive-drugs-amlostin---primary.py
+inputModule114:
+  class: File
+  path: python/antihypertensive-drugs-pharmacia---primary.py
+inputModule115:
+  class: File
+  path: python/antihypertensive-drugs-torasemide---primary.py
+inputModule116:
+  class: File
+  path: python/antihypertensive-drugs-375mg---primary.py
+inputModule117:
+  class: File
+  path: python/antihypertensive-drugs-squibb---primary.py
+inputModule118:
+  class: File
+  path: python/antihypertensive-drugs-acepril---primary.py
+inputModule119:
+  class: File
+  path: python/antihypertensive-drugs-ashbourne---primary.py
+inputModule120:
+  class: File
+  path: python/antihypertensive-drugs-180mg---primary.py
+inputModule121:
+  class: File
+  path: python/antihypertensive-drugs-betaadalat---primary.py
+inputModule122:
+  class: File
+  path: python/antihypertensive-drugs-disogram---primary.py
+inputModule123:
+  class: File
+  path: python/antihypertensive-drugs-120mg---primary.py
+inputModule124:
+  class: File
+  path: python/antihypertensive-drugs-tensipine---primary.py
+inputModule125:
+  class: File
+  path: python/antihypertensive-drugs-ranbaxy---primary.py
+inputModule126:
+  class: File
+  path: python/antihypertensive-drugs-atenolol---primary.py
+inputModule127:
+  class: File
+  path: python/antihypertensive-drugs-neobendromax---primary.py
+inputModule128:
+  class: File
+  path: python/antihypertensive-drugs-100mg---primary.py
+inputModule129:
+  class: File
+  path: python/antihypertensive-drugs-cardicor---primary.py
+inputModule130:
+  class: File
+  path: python/antihypertensive-drugs-visken---primary.py
+inputModule131:
+  class: File
+  path: python/antihypertensive-drugs-recordati---primary.py
+inputModule132:
+  class: File
+  path: python/antihypertensive-drugs-abbott---primary.py
+inputModule133:
+  class: File
+  path: python/antihypertensive-drugs-atenamin---primary.py
+inputModule134:
+  class: File
+  path: python/antihypertensive-drugs-tensopril---primary.py
+inputModule135:
+  class: File
+  path: python/antihypertensive-drugs-helio---primary.py
+inputModule136:
+  class: File
+  path: python/antihypertensive-drugs-bipranix---primary.py
+inputModule137:
+  class: File
+  path: python/antihypertensive-drugs-kaplon---primary.py
+inputModule138:
+  class: File
+  path: python/antihypertensive-drugs-calanif---primary.py
+inputModule139:
+  class: File
+  path: python/eastern-antihypertensive-drugs---primary.py
+inputModule140:
+  class: File
+  path: python/antihypertensive-drugs-nimodrel---primary.py
+inputModule141:
+  class: File
+  path: python/antihypertensive-drugs-bicarzem---primary.py
+inputModule142:
+  class: File
+  path: python/pralenal-antihypertensive-drugs---primary.py
+inputModule143:
+  class: File
+  path: python/antihypertensive-drugs-hyperplasia---primary.py
+inputModule144:
+  class: File
+  path: python/antihypertensive-drugs-aldactone---primary.py
+inputModule145:
+  class: File
+  path: python/antihypertensive-drugs-shire---primary.py
+inputModule146:
+  class: File
+  path: python/totaretic-antihypertensive-drugs---primary.py
+inputModule147:
+  class: File
+  path: python/antihypertensive-drugs-tenormin---primary.py
+inputModule148:
+  class: File
+  path: python/antihypertensive-drugs-cardioplen---primary.py
+inputModule149:
+  class: File
+  path: python/antihypertensive-drugs-dumex---primary.py
+inputModule150:
+  class: File
+  path: python/antihypertensive-drugs-bumetanide---primary.py
+inputModule151:
+  class: File
+  path: python/antihypertensive-drugs-nadolol---primary.py
+inputModule152:
+  class: File
+  path: python/antihypertensive-drugs-500mg---primary.py
+inputModule153:
+  class: File
+  path: python/antihypertensive-drugs-rapranol---primary.py
+inputModule154:
+  class: File
+  path: python/antihypertensive-drugs-prestim---primary.py
+inputModule155:
+  class: File
+  path: python/antihypertensive-drugs-cascor---primary.py
+inputModule156:
+  class: File
+  path: python/antihypertensive-drugs-spiroco---primary.py
+inputModule157:
+  class: File
+  path: python/antihypertensive-drugs-maleate---primary.py
+inputModule158:
+  class: File
+  path: python/antihypertensive-drugs-betaprograne---primary.py
+inputModule159:
+  class: File
+  path: python/antihypertensive-drugs-tenchlor---primary.py
+inputModule160:
+  class: File
+  path: python/antihypertensive-drugs-propranolol---primary.py
+inputModule161:
+  class: File
+  path: python/antihypertensive-drugs-lagap---primary.py
+inputModule162:
+  class: File
+  path: python/antihypertensive-drugs-cabren---primary.py
+inputModule163:
+  class: File
+  path: python/antihypertensive-drugs-zemret---primary.py
+inputModule164:
+  class: File
+  path: python/antihypertensive-drugs-furosemide---primary.py
+inputModule165:
+  class: File
+  path: python/antihypertensive-drugs-chanelle---primary.py
+inputModule166:
+  class: File
+  path: python/antihypertensive-drugs-nifedipine---primary.py
+inputModule167:
+  class: File
+  path: python/antihypertensive-drugs-elanpharma---primary.py
+inputModule168:
+  class: File
+  path: python/antihypertensive-drugs-diltiazem---primary.py
+inputModule169:
+  class: File
+  path: python/antihypertensive-drugs-kenzem---primary.py
+inputModule170:
+  class: File
+  path: python/antihypertensive-drugs-pliva---primary.py
+inputModule171:
+  class: File
+  path: python/antihypertensive-drugs-metoro---primary.py
+inputModule172:
+  class: File
+  path: python/antihypertensive-drugs-trinity---primary.py
+inputModule173:
+  class: File
+  path: python/antihypertensive-drugs-chlorothiazide---primary.py
+inputModule174:
+  class: File
+  path: python/antihypertensive-drugs-lopace---primary.py
+inputModule175:
+  class: File
+  path: python/antihypertensive-drugs-novartis---primary.py
+inputModule176:
+  class: File
+  path: python/antihypertensive-drugs-perdix---primary.py
+inputModule177:
+  class: File
+  path: python/antihypertensive-drugs-odrik---primary.py
+inputModule178:
+  class: File
+  path: python/antihypertensive-drugs-neofel---primary.py
+inputModule179:
+  class: File
+  path: python/antihypertensive-drugs-160mg---primary.py
+inputModule180:
+  class: File
+  path: python/antihypertensive-drugs-irbesartan---primary.py
+inputModule181:
+  class: File
+  path: python/antihypertensive-drugs-mepranix---primary.py
+inputModule182:
+  class: File
+  path: python/antihypertensive-drugs-burgess---primary.py
+inputModule183:
+  class: File
+  path: python/antihypertensive-drugs-hydrochloride---primary.py
+inputModule184:
+  class: File
+  path: python/antihypertensive-drugs-benzthiazide---primary.py
+inputModule185:
+  class: File
+  path: python/antihypertensive-drugs-timolol---primary.py
+inputModule186:
+  class: File
+  path: python/antihypertensive-drugs-alliance---primary.py
+inputModule187:
+  class: File
+  path: python/antihypertensive-drugs-natrilix---primary.py
+inputModule188:
+  class: File
+  path: python/antihypertensive-drugs-takeda---primary.py
+inputModule189:
+  class: File
+  path: python/antihypertensive-drugs-lacidipine---primary.py
+inputModule190:
+  class: File
+  path: python/antihypertensive-drugs-ecopace---primary.py
+inputModule191:
+  class: File
+  path: python/antihypertensive-drugs-congescor---primary.py
+inputModule192:
+  class: File
+  path: python/antihypertensive-drugs-sandoz---primary.py
+inputModule193:
+  class: File
+  path: python/antihypertensive-drugs-lexon---primary.py
+inputModule194:
+  class: File
+  path: python/antihypertensive-drugs-zurich---primary.py
+inputModule195:
+  class: File
+  path: python/antihypertensive-drugs-ednyt---primary.py
+inputModule196:
+  class: File
+  path: python/antihypertensive-drugs-perindopril---primary.py
+inputModule197:
+  class: File
+  path: python/antihypertensive-drugs-capoten---primary.py
+inputModule198:
+  class: File
+  path: python/antihypertensive-drugs-wockhardt---primary.py
+inputModule199:
+  class: File
+  path: python/antihypertensive-drugs-actavis---primary.py
+inputModule200:
+  class: File
+  path: python/antihypertensive-drugs-parmid---primary.py
+inputModule201:
+  class: File
+  path: python/antihypertensive-drugs-metoprolol---primary.py
+inputModule202:
+  class: File
+  path: python/antihypertensive-drugs-amlodipine---primary.py
+inputModule203:
+  class: File
+  path: python/antihypertensive-drugs-celltech---primary.py
+inputModule204:
+  class: File
+  path: python/antihypertensive-drugs-genus---primary.py
+inputModule205:
+  class: File
+  path: python/antihypertensive-drugs-dexcel---primary.py
+inputModule206:
+  class: File
+  path: python/antihypertensive-drugs-zentiva---primary.py
+inputModule207:
+  class: File
+  path: python/antihypertensive-drugs-terazosin---primary.py
+inputModule208:
+  class: File
+  path: python/antihypertensive-drugs-sovereign---primary.py
+inputModule209:
+  class: File
+  path: python/antihypertensive-drugs-hillcross---primary.py
+inputModule210:
+  class: File
+  path: python/antihypertensive-drugs-celectol---primary.py
+inputModule211:
+  class: File
+  path: python/antihypertensive-drugs-exforge---primary.py
+inputModule212:
+  class: File
+  path: python/antihypertensive-drugs-valsartan---primary.py
+inputModule213:
+  class: File
+  path: python/antihypertensive-drugs-neozipine---primary.py
+inputModule214:
+  class: File
+  path: python/antihypertensive-drugs-monocor---primary.py
+inputModule215:
+  class: File
+  path: python/antihypertensive-drugs-cardozin---primary.py
+inputModule216:
+  class: File
+  path: python/antihypertensive-drugs-sotalol---primary.py
+inputModule217:
+  class: File
+  path: python/antihypertensive-drugs-valni---primary.py
+inputModule218:
+  class: File
+  path: python/antihypertensive-drugs-coamilofruse---primary.py
+inputModule219:
+  class: File
+  path: python/antihypertensive-drugs-arginine---primary.py
+inputModule220:
+  class: File
+  path: python/antihypertensive-drugs-arrow---primary.py
+inputModule221:
+  class: File
+  path: python/antihypertensive-drugs-tildiem---primary.py
+inputModule222:
+  class: File
+  path: python/antihypertensive-drugs-quinil---primary.py
+inputModule223:
+  class: File
+  path: python/zestoretic-antihypertensive-drugs---primary.py
+inputModule224:
+  class: File
+  path: python/antihypertensive-drugs-istin---primary.py
+inputModule225:
+  class: File
+  path: python/antihypertensive-drugs-sterwin---primary.py
+inputModule226:
+  class: File
+  path: python/antihypertensive-drugs-olmesartan---primary.py
+inputModule227:
+  class: File
+  path: python/antihypertensive-drugs-trandolapril---primary.py
+inputModule228:
+  class: File
+  path: python/antihypertensive-drugs-coated---primary.py
+inputModule229:
+  class: File
+  path: python/antihypertensive-drugs-celiprolol---primary.py
+inputModule230:
+  class: File
+  path: python/antihypertensive-drugs-focus---primary.py
+inputModule231:
+  class: File
+  path: python/antihypertensive-drugs-240mg---primary.py
+inputModule232:
+  class: File
+  path: python/antihypertensive-drugs-tillomed---primary.py
+inputModule233:
+  class: File
+  path: python/antihypertensive-drugs-amiloride---primary.py
+inputModule234:
+  class: File
+  path: python/antihypertensive-drugs-goldshield---primary.py
+inputModule235:
+  class: File
+  path: python/antihypertensive-drugs-cardura---primary.py
+inputModule236:
+  class: File
+  path: python/antihypertensive-drugs-nicardipine---primary.py
+inputModule237:
+  class: File
+  path: python/antihypertensive-drugs-adanif---primary.py
+inputModule238:
+  class: File
+  path: python/antihypertensive-drugs-staril---primary.py
+inputModule239:
+  class: File
+  path: python/antihypertensive-drugs-indapamide---primary.py
+inputModule240:
+  class: File
+  path: python/antihypertensive-drugs-losartan---primary.py
+inputModule241:
+  class: File
+  path: python/antihypertensive-drugs-candesartan---primary.py
+inputModule242:
+  class: File
+  path: python/antihypertensive-drugs-cotriamterzide---primary.py
+inputModule243:
+  class: File
+  path: python/antihypertensive-drugs-astrazenec---primary.py
+inputModule244:
+  class: File
+  path: python/antihypertensive-drugs-modifiedrelease---primary.py
+inputModule245:
+  class: File
+  path: python/antihypertensive-drugs-azilsartan---primary.py
+inputModule246:
+  class: File
+  path: python/antihypertensive-drugs-securon---primary.py
+inputModule247:
+  class: File
+  path: python/antihypertensive-drugs-bedranol---primary.py
+inputModule248:
+  class: File
+  path: python/antihypertensive-drugs-adizemxl---primary.py
+inputModule249:
+  class: File
+  path: python/antihypertensive-drugs-injection---primary.py
+inputModule250:
+  class: File
+  path: python/antihypertensive-drugs-hydroflumethiazide---primary.py
+inputModule251:
+  class: File
+  path: python/antihypertensive-drugs-carvedilol---primary.py
+inputModule252:
+  class: File
+  path: python/antihypertensive-drugs-lisinopril---primary.py
+inputModule253:
+  class: File
+  path: python/antihypertensive-drugs-metolazone---primary.py
+inputModule254:
+  class: File
+  path: python/antihypertensive-drugs-folpik---primary.py
+inputModule255:
+  class: File
+  path: python/antihypertensive-drugs-zanidip---primary.py
+inputModule256:
+  class: File
+  path: python/antihypertensive-drugs-ampoule---primary.py
+inputModule257:
+  class: File
+  path: python/antihypertensive-drugs-lercanidipine---primary.py
+inputModule258:
+  class: File
+  path: python/antihypertensive-drugs-tosilate---primary.py
+inputModule259:
+  class: File
+  path: python/antihypertensive-drugs-coversyl---primary.py
+inputModule260:
+  class: File
+  path: python/antihypertensive-drugs-200mg---primary.py
+inputModule261:
+  class: File
+  path: python/antihypertensive-drugs-indoramin---primary.py
+inputModule262:
+  class: File
+  path: python/antihypertensive-drugs-fosinopril---primary.py
+inputModule263:
+  class: File
+  path: python/antihypertensive-drugs-nebivolol---primary.py
+inputModule264:
+  class: File
+  path: python/generic-antihypertensive-drugs---primary.py
+inputModule265:
+  class: File
+  path: python/antihypertensive-drugs-noyada---primary.py
+inputModule266:
+  class: File
+  path: python/antihypertensive-drugs-verapamil---primary.py
+inputModule267:
+  class: File
+  path: python/antihypertensive-drugs-plendil---primary.py
+inputModule268:
+  class: File
+  path: python/antihypertensive-drugs-felodipine---primary.py
+inputModule269:
+  class: File
+  path: python/antihypertensive-drugs-solution---primary.py
+inputModule270:
+  class: File
+  path: python/antihypertensive-drugs-nebilet---primary.py
+inputModule271:
+  class: File
+  path: python/antihypertensive-drugs-zestril---primary.py
+inputModule272:
+  class: File
+  path: python/antihypertensive-drugs-aventi---primary.py
+inputModule273:
+  class: File
+  path: python/antihypertensive-drugs-tartrate---primary.py
+inputModule274:
+  class: File
+  path: python/antihypertensive-drugs-aprinox---primary.py
+inputModule275:
+  class: File
+  path: python/antihypertensive-drugs-potassium---primary.py
+inputModule276:
+  class: File
+  path: python/geigy-antihypertensive-drugs---primary.py
+inputModule277:
+  class: File
+  path: python/antihypertensive-drugs-trandate---primary.py
+inputModule278:
+  class: File
+  path: python/antihypertensive-drugs-innovace---primary.py
+inputModule279:
+  class: File
+  path: python/antihypertensive-drugs-hygroton---primary.py
+inputModule280:
+  class: File
+  path: python/antihypertensive-drugs-winthrop---primary.py
+inputModule281:
+  class: File
+  path: python/antihypertensive-drugs-tritace---primary.py
+inputModule282:
+  class: File
+  path: python/output-cases.py
